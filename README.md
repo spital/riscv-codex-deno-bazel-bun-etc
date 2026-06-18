@@ -10,3 +10,5 @@ Latest binaries built with ai help from public sources, codex also with rusty_v8
 
 
 Deno / Rusty-v8 in progress to get to upstream :: https://github.com/spital/deno-riscv64/issues/1
+
+OpenAI codex-cli kind of works :: https://github.com/spital/codex-riscv64/issues/1
